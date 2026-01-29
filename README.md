@@ -42,3 +42,28 @@ Week 1 completed ✔
 ### Status
 Week 2 completed ✔
 
+## Week 3: Visual Storytelling & Scenario Analysis (Tableau)
+
+### Objective
+Transform quantitative risk metrics into an interactive visual dashboard that allows users to perform real-time
+“What-If” scenario analysis on the investment portfolio.
+
+### Key Features
+- Connected Tableau directly to cleaned portfolio CSV data
+- Built dynamic What-If parameters to simulate market shocks
+- Interactive comparison of portfolio volatility before and after shock
+- KPI cards for:
+  - Value at Risk (VaR %)
+  - Expected Return (%)
+  - Portfolio Volatility
+- All visuals update instantly when scenario parameters change
+
+### Dashboard Highlights
+- Portfolio Value Over Time (Line Chart)
+- Volatility Before vs After Shock (Bar Chart)
+- Scenario Control: Tech Sector Shock (%)
+- Risk KPIs for quick executive insights
+
+### Outcome
+This dashboard enables business users to explore downside risk, stress scenarios,
+and portfolio behavior without writing code, bridging quantitative finance and decision-making.
