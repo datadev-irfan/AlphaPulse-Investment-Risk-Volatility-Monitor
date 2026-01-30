@@ -1,6 +1,6 @@
 # AlphaPulse – Investment Risk & Volatility Monitor
 
-## Week 1: Data Acquisition & Cleaning
+## 📊 Week 1: Data Acquisition & Cleaning
 
 ### Objective
 Collect and clean historical market data for a diversified stock portfolio to enable downstream risk analytics.
@@ -14,8 +14,6 @@ Collect and clean historical market data for a diversified stock portfolio to en
 - Clean, adjusted price dataset
 - Long-format schema suitable for analytics
 
-### Status
-Week 1 completed ✔
 
 ## 📊 Week 2 – Quantitative Analysis
 
@@ -39,10 +37,8 @@ Week 1 completed ✔
 - Simulated returns approximate a normal distribution
 - Confirms correct implementation and highlights real-market risk behavior
 
-### Status
-Week 2 completed ✔
 
-## Week 3: Visual Storytelling & Scenario Analysis (Tableau)
+## 📊 Week 3: Visual Storytelling & Scenario Analysis (Tableau)
 
 ### Objective
 Transform quantitative risk metrics into an interactive visual dashboard that allows users to perform real-time
