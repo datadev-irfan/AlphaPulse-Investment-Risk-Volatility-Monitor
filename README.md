@@ -63,3 +63,25 @@ Transform quantitative risk metrics into an interactive visual dashboard that al
 ### Outcome
 This dashboard enables business users to explore downside risk, stress scenarios,
 and portfolio behavior without writing code, bridging quantitative finance and decision-making.
+
+## Week 4 – Finalization (AlphaPulse)
+### Objective
+
+Week 4 focused on finalizing the AlphaPulse project by implementing automation, executive-level reporting, and financial validation. The goal was to make the system production-ready and decision-maker friendly.
+
+### Key Features
+- Automated Market Data Refresh
+- Executive Summary Dashboard
+-  Financial Accuracy Validation
+
+
+### Outcome
+By the end of Week 4:
+-AlphaPulse became production-ready
+-Risk metrics were verified
+-Executive reporting was implemented
+-Data refresh process was streamlined
+
+### 🚀 Conclusion
+
+Week 4 completed the AlphaPulse system by ensuring accuracy, usability, and professional presentation. The project now functions as a realistic portfolio risk monitoring solution.
